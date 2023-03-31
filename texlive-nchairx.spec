@@ -1,6 +1,6 @@
 Name:		texlive-nchairx
 Version:	60196
-Release:	1
+Release:	2
 Summary:	Maths macros from chair X of Wurzburg University
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nchairx
