@@ -3,7 +3,7 @@ Version:	60196
 Release:	2
 Summary:	Maths macros from chair X of Wurzburg University
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nchairx
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/nchairx
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nchairx.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nchairx.doc.r%{version}.tar.xz
